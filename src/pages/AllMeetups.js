@@ -31,9 +31,9 @@ function AllMeetupsPage() {
 
   if (isLoading) {
     return (
-      <sectio>
+      <section>
         <p>Loading...</p>
-      </sectio>
+      </section>
     );
   }
 
